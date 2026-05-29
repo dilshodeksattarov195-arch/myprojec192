@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvalidate",
+        "uuid": 952512,
+        "checksum": "ktb7eb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
